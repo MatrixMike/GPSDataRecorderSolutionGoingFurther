@@ -1,7 +1,7 @@
 // 17.04.2019 13:05:25
 //  Error: Could not find or load main class src..predicatetest.PredicateTest
 
-package PredicateTest;
+//  package PredicateTest;   // if this removed then will easily exec in geany
 //import java.io.BufferedReader;
 //import java.io.IOException;
 //import java.nio.charset.StandardCharsets;
